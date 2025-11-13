@@ -86,7 +86,6 @@ POST /auth/login
 
 ```js
 {
-  "nombre": "Tilin",
   "email": "tilin@gmail.com",
   "password": "tilin123"
 }
